@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/7illz/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/7illz/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/7illz/LeetCode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/7illz/LeetCode/tree/master/0258-add-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/7illz/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/7illz/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/7illz/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/7illz/LeetCode/tree/master/0183-customers-who-never-order) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/7illz/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/7illz/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
