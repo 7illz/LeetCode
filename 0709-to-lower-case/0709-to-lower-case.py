@@ -7,11 +7,11 @@ class Solution(object):
             else:
                 var.append(i)
 
-        car=''
+        s=''
         for i in var:
-            car+=i
+            s+=i
 
-        return car
+        return s
 
 
         
