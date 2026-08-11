@@ -7,11 +7,11 @@ class Solution(object):
             else:
                 var.append(i)
 
-        si=''
+        s=''
         for i in var:
-            si+=i
+            s+=i
 
-        return si
+        return s
 
 
         
