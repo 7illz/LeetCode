@@ -14,13 +14,13 @@ class Solution(object):
 
             left = dfs(root.left )
 
-            if left is False:
-                return [False,0]
+            # if left is False:
+            #     return [False,0]
 
             right = dfs(root.right)
 
-            if right is False:
-                return [False,0]
+            # if right is False:
+            #     return [False,0]
 
             if abs(left[1] - right[1]) > 1:
                 return [False,0]
