@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/7illz/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7illz/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/7illz/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/7illz/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/7illz/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/7illz/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/7illz/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/7illz/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/7illz/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/7illz/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/7illz/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
