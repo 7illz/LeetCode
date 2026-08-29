@@ -8,8 +8,7 @@
 class Solution(object):
     def guessNumber(self, n):
 
-        left=0
-        right=n
+
 
         def call(left,right):
             mid=(left +right) //2
@@ -26,4 +25,4 @@ class Solution(object):
             else:
                 return call(left,mid-1)
 
-        return call(left,right)
+        return call(0,n)
