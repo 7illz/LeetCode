@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/7illz/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/7illz/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/7illz/LeetCode/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/7illz/LeetCode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/7illz/LeetCode/tree/master/0860-lemonade-change) |
 | [1652-defuse-the-bomb](https://github.com/7illz/LeetCode/tree/master/1652-defuse-the-bomb) |
 ## Trie
@@ -270,4 +271,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/7illz/LeetCode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/7illz/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/7illz/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/7illz/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
