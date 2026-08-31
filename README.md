@@ -309,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/7illz/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/7illz/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/7illz/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
