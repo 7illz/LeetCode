@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/7illz/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/7illz/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/7illz/LeetCode/tree/master/0463-island-perimeter) |
+| [0506-relative-ranks](https://github.com/7illz/LeetCode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/7illz/LeetCode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/7illz/LeetCode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/7illz/LeetCode/tree/master/0860-lemonade-change) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/7illz/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/7illz/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/7illz/LeetCode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/7illz/LeetCode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7illz/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -324,5 +326,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/7illz/LeetCode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7illz/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
