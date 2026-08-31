@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/7illz/LeetCode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/7illz/LeetCode/tree/master/0860-lemonade-change) |
 | [0997-find-the-town-judge](https://github.com/7illz/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7illz/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/7illz/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/7illz/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/7illz/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/7illz/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/7illz/LeetCode/tree/master/0455-assign-cookies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7illz/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/7illz/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/7illz/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/7illz/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7illz/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
