@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/7illz/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/7illz/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/7illz/LeetCode/tree/master/0412-fizz-buzz) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/7illz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/7illz/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/7illz/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/7illz/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/7illz/LeetCode/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/7illz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/7illz/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/7illz/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/7illz/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/7illz/LeetCode/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/7illz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -337,4 +340,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7illz/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/7illz/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/7illz/LeetCode/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/7illz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
