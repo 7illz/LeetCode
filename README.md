@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/7illz/LeetCode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/7illz/LeetCode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/7illz/LeetCode/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/7illz/LeetCode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/7illz/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/7illz/LeetCode/tree/master/0867-transpose-matrix) |
 | [0997-find-the-town-judge](https://github.com/7illz/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/7illz/LeetCode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/7illz/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/7illz/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/7illz/LeetCode/tree/master/0832-flipping-an-image) |
 ## String Matching
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/7illz/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/7illz/LeetCode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/7illz/LeetCode/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/7illz/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/7illz/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/7illz/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/7illz/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/7illz/LeetCode/tree/master/0867-transpose-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/7illz/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/7illz/LeetCode/tree/master/2974-minimum-number-game) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/7illz/LeetCode/tree/master/0463-island-perimeter) |
+| [0832-flipping-an-image](https://github.com/7illz/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/7illz/LeetCode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/7illz/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/7illz/LeetCode/tree/master/1572-matrix-diagonal-sum) |
