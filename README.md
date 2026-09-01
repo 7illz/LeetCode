@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/7illz/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7illz/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/7illz/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/7illz/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/7illz/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/7illz/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/7illz/LeetCode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7illz/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/7illz/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Counting
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/7illz/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/7illz/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/7illz/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/7illz/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Number Theory
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/7illz/LeetCode/tree/master/0463-island-perimeter) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/7illz/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/7illz/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search Tree
 |  |
@@ -328,4 +332,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/7illz/LeetCode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7illz/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/7illz/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
