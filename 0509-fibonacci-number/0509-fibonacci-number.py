@@ -2,15 +2,10 @@ class Solution(object):
     def fib(self, n):
 
 
-        def f(n):
-            if n==0:
-                return 0
-            if n==1:
-                return 1
 
-            return  f(n-1) +f(n-2)
-
-        return f(n)
+        if n <= 1:
+            return n
+        return self.fib(n - 1) + self.fib(n - 2)
 
 
 
