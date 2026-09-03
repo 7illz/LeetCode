@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/7illz/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/7illz/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/7illz/LeetCode/tree/master/1025-divisor-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/7illz/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2965-find-missing-and-repeated-values](https://github.com/7illz/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/7illz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/7illz/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/7illz/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/7illz/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/7illz/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/7illz/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/7illz/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/7illz/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/7illz/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/7illz/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/7illz/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/7illz/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/7illz/LeetCode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/7illz/LeetCode/tree/master/0832-flipping-an-image) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/7illz/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -404,4 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/7illz/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/7illz/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/7illz/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
