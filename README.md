@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/7illz/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/7illz/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/7illz/LeetCode/tree/master/0709-to-lower-case) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/7illz/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Array
 |  |
 | ------- |
@@ -103,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/7illz/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/7illz/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/7illz/LeetCode/tree/master/2974-minimum-number-game) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/7illz/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/7illz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/7illz/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/7illz/LeetCode/tree/master/0014-longest-common-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/7illz/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/7illz/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/7illz/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -392,4 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/7illz/LeetCode/tree/master/1025-divisor-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/7illz/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/7illz/LeetCode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
