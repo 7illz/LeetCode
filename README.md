@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/7illz/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/7illz/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/7illz/LeetCode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/7illz/LeetCode/tree/master/1025-divisor-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/7illz/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/7illz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/7illz/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/7illz/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/7illz/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/7illz/LeetCode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/7illz/LeetCode/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -378,4 +380,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/7illz/LeetCode/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/7illz/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/7illz/LeetCode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/7illz/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
