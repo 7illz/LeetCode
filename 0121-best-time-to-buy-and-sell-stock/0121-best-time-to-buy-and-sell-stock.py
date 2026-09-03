@@ -11,7 +11,6 @@ class Solution(object):
 
 
             r+=1
-        if max_prof<0:
-            max_prof=0
+
         return max_prof
         
