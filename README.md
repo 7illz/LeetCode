@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/7illz/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/7illz/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/7illz/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/7illz/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/7illz/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/7illz/LeetCode/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/7illz/LeetCode/tree/master/0506-relative-ranks) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/7illz/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/7illz/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/7illz/LeetCode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/7illz/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/7illz/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/7illz/LeetCode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/7illz/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
