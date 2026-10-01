@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/7illz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/7illz/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/7illz/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/7illz/LeetCode/tree/master/0567-permutation-in-string) |
 | [0997-find-the-town-judge](https://github.com/7illz/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2965-find-missing-and-repeated-values](https://github.com/7illz/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/7illz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/7illz/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/7illz/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/7illz/LeetCode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/7illz/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/7illz/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/7illz/LeetCode/tree/master/0709-to-lower-case) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/7illz/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/7illz/LeetCode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/7illz/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/7illz/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/7illz/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/7illz/LeetCode/tree/master/0832-flipping-an-image) |
 ## String Matching
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/7illz/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/7illz/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/7illz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/7illz/LeetCode/tree/master/0567-permutation-in-string) |
 | [1652-defuse-the-bomb](https://github.com/7illz/LeetCode/tree/master/1652-defuse-the-bomb) |
 ## Queue
 |  |
