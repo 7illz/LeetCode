@@ -11,27 +11,25 @@ class Solution(object):
         while r < len(s):
             count[s[r]] += 1 
             
-            max_f = max(count.values())
-
-            if (r - l + 1) - max_f <= k:
-                res = max(res, r - l + 1)
-                r += 1
+            freq=max(count.values())
+            if r-l+1 - freq <=k:
+                res= max(res,r-l+1)
+                r+=1
                 continue
-
-            while l <= r:
-                count[s[l]] -= 1
-                l += 1
+            
                 
-                max_f = max(count.values())
-                if (r - l + 1) - max_f <= k:
-                    break
+            while l<r:
+                   count[s[l]] -= 1
+                   l+=1
+                   freq=max(count.values())
+                   
+                   if r-l+1 -freq <=k: 
+                       r+=1
+                       break
+                       
+                     
+                       
             
-            r += 1
-            
+
         return res
-
-
-
-
-
-
+             
